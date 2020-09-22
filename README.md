@@ -9,7 +9,7 @@ realizar los siguientes detalles:
 • Mostrar la longitud de elementos
 
 • Buscar elementos proporcionado por el usuario
---------------------------------------------------------------------------------------
+
 # Problema 4
 Escribe una función llamada "inversa" que busque todas las palabras inversas de una lista.
 
